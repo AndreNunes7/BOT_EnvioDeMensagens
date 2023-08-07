@@ -40,6 +40,3 @@ O script possui verificações para garantir que o número de mensagens seja vá
 
 Contribuições e melhorias são bem-vindas! Sinta-se à vontade para enviar pull requests para este repositório.
 
-## Licença
-
-Este projeto está sob a Licença MIT.
